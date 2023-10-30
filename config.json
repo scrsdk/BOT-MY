@@ -1,0 +1,10 @@
+{
+    "bot-token": "",
+    "character_limit": 30000,
+    "default-lore": "Свободное общение",
+    "default-language": "Русский",
+    "default-model": "gpt-3.5-turbo",
+    "start-stickers": ["CAACAgIAAxkBAAEKopVlPpQWlDgfN7Bsge-0_xGJ6zbpQAACGxMAAifBcUnRvYBFTxWL5TAE"],
+    "languages": ["Русский", "English"],
+    "admin-id": 5814178857
+}
