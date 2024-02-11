@@ -1,7 +1,7 @@
 [
     {
-      "x2": false,
-      "name": "TEST",
+      "x2": true,
+      "name": "PERM",
       "online": 2,
       "maxonline": 1000
     }
